@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hulusthul-live/static/css/main.a9eaee93.chunk.css",
+    "main.js": "/hulusthul-live/static/js/main.7d179cfa.chunk.js",
+    "main.js.map": "/hulusthul-live/static/js/main.7d179cfa.chunk.js.map",
+    "runtime-main.js": "/hulusthul-live/static/js/runtime-main.d862d626.js",
+    "runtime-main.js.map": "/hulusthul-live/static/js/runtime-main.d862d626.js.map",
+    "static/js/2.1a4ba67a.chunk.js": "/hulusthul-live/static/js/2.1a4ba67a.chunk.js",
+    "static/js/2.1a4ba67a.chunk.js.map": "/hulusthul-live/static/js/2.1a4ba67a.chunk.js.map",
+    "static/js/3.31edaa12.chunk.js": "/hulusthul-live/static/js/3.31edaa12.chunk.js",
+    "static/js/3.31edaa12.chunk.js.map": "/hulusthul-live/static/js/3.31edaa12.chunk.js.map",
+    "index.html": "/hulusthul-live/index.html",
+    "static/css/main.a9eaee93.chunk.css.map": "/hulusthul-live/static/css/main.a9eaee93.chunk.css.map",
+    "static/js/2.1a4ba67a.chunk.js.LICENSE.txt": "/hulusthul-live/static/js/2.1a4ba67a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d862d626.js",
+    "static/js/2.1a4ba67a.chunk.js",
+    "static/css/main.a9eaee93.chunk.css",
+    "static/js/main.7d179cfa.chunk.js"
+  ]
+}
